@@ -6,11 +6,15 @@ namespace WorkshopMvc.Controllers
     {
         public ActionResult Index()
         {
+            ViewData["Titulo"] = "Home - Index";
+
             return View();
         }
 
         public ActionResult Contato()
         {
+            ViewData["Titulo"] = "Home - Contato";
+
             return View();
         }
     }
