@@ -7,11 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkshopMvc", "WorkshopMvc.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkshopMvc.Tests", "..\WorkshopMvc.Tests\WorkshopMvc.Tests.csproj", "{5F3C5FCB-FC08-4C60-A0B5-4CF9726AFC4F}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2F34FB79-0D20-4582-8423-DDDF704CF888}"
-	ProjectSection(SolutionItems) = preProject
-		.ignore = .ignore
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
